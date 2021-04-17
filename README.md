@@ -12,12 +12,18 @@
        >  Gear Type  <br/>
       </h3>
     
-   <h4>The Link Of The Application : </h4> <p> https://carprice-predictionapp.herokuapp.com/ </p>
+   <h4>The Link Of The Application : <p> https://carprice-predictionapp.herokuapp.com/ </p> </h4> 
     
-   Here Are The tools Used to Build The Application ... 
+   Here Are The tools Used to Build The Application ... 👇
     
    <h3 align="left">Languages and Tools:</h3>
-   <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+   <p align="left"> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"     height="40"/> </a> 
+    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"       height="40"/> </a> 
+    <a href="https://streamlit.io/" target="_blank"> <img src="https://jobs.dataumbrella.org/logos/1599482738-streamlit2.png" alt="Streamlit" width="40"       height="40"/> </a> 
+  </p>
 
     
 </h5>
