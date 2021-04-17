@@ -1,8 +1,8 @@
 <h1 align="center">Car Price Prediction 🚗</h1>
 
-<h5> -> This Project Is For Give The Step By Step Information About Build The End To End Machinelearning  Poject With Healp Of Streamlit . <br/>
+<h5> -> This Project Is For Give The Step By Step Information About Build The End To End Machinelearning  Poject With Healp Of Streamlit . </h5> <br/>
 
-  -> This Project Is For <h4> Predict The Price Of A Second Hand Car </h4> Basd On A Given Components Like....
+  <h5>-> This Project Is For <h4> Predict The Price Of A Second Hand Car </h4> Basd On A Given Components Like....</h5>
        <h3>
        >  purchased Year <br/>
        >  Km. Driven  <br/>
@@ -14,7 +14,7 @@
     
    <h4>The Link Of The Application : <p> https://carprice-predictionapp.herokuapp.com/ </p> </h4> 
     
-   Here Are The tools Used to Build The Application ... 👇
+   <h5> Here Are The tools Used to Build The Application ... 👇</h5>
     
    <h3 align="left">Languages and Tools:</h3>
    <p align="left"> 
@@ -26,5 +26,5 @@
   </p>
 
     
-</h5>
+
 
