@@ -18,12 +18,8 @@
 <h2>Application Video</h2>
 
 https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-9863-3ec1f3405423.mp4
-
-
+ 
     
-   <h4>The Link Of The Application : <p> https://carprice-predictionapp.herokuapp.com/ </p> </h4> 
-    
-   <h5> Here Are The tools Used to Build The Application ... 👇</h5>
     
    <h3 align="left">Languages and Tools:</h3>
    <p align="left"> 
@@ -34,6 +30,14 @@ https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-
     <a href="https://streamlit.io/" target="_blank"> <img src="https://jobs.dataumbrella.org/logos/1599482738-streamlit2.png" alt="Streamlit" width="50"  height="45"  </a> 
   </p>
 
-    
+ <h2>The Steps Of Build An Application....👇</h2> 
+ 
+ 1️⃣ Took The Data From The Kaggle. 
+ 
+ 2️⃣ Train The Machine Learning Model On That Data And Creat A Pickle File.
+ 
+ 3️⃣ Install Streamlit And Create The Web Application By using It.
+
+ 4️⃣ Upload It On Heroku.
 
 
