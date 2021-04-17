@@ -13,7 +13,8 @@
       </h3>
       
       
-  <h4>The Link Of The Application : <p> https://carprice-predictionapp.herokuapp.com/ </p> </h4>     
+  [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://carprice-predictionapp.herokuapp.com/)
+   
       
 <h2>Application Video</h2>
 
