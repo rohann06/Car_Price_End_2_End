@@ -1,10 +1,6 @@
 <h1 align="center">Car Price Prediction 🚗</h1>
 
-https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-9863-3ec1f3405423.mp4
-
-<h5> -> This Project Is For Give The Step By Step Information About Build The End To End Machinelearning  Poject With Healp Of Streamlit . </h5> <br/>
-
-
+<h4> -> This Project Is For Give The Step By Step Information About Build The End To End Machinelearning  Poject With Healp Of Streamlit . </h4> <br/>
 
   <h5>-> This Project Is For Predict The Price Of A Second Hand Car Basd On A Given Components Like....</h5>
        <h3>
@@ -15,6 +11,14 @@ https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-
        >  Dealer Type  <br/>
        >  Gear Type  <br/>
       </h3>
+      
+      
+  <h4>The Link Of The Application : <p> https://carprice-predictionapp.herokuapp.com/ </p> </h4>     
+      
+<h2>Application Video</h2>
+https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-9863-3ec1f3405423.mp4
+
+
     
    <h4>The Link Of The Application : <p> https://carprice-predictionapp.herokuapp.com/ </p> </h4> 
     
