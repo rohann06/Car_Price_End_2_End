@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-
    <h3 align="left">Languages and Tools:</h3>
    <p align="left"> 
    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
-  <a href="https://github.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPxto1PUh-k-Yg7ovF6tVZCtotWrXoCQJADg&usqp=CAU" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://github.com" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="heroku" width="40" height="40"/>     </a>
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"                  width="50" height="45" /> </a> 
    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"       height="50"> </a> 
    <a href="https://streamlit.io/" target="_blank"> <img src="https://jobs.dataumbrella.org/logos/1599482738-streamlit2.png" alt="Streamlit" width="55"  height="50" </a>
