@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-
     <a href="https://streamlit.io/" target="_blank"> <img src="https://jobs.dataumbrella.org/logos/1599482738-streamlit2.png" alt="Streamlit" width="50"  height="45"  </a> 
   </p>
 
- <h2>The Steps Of Build An Application....👇</h2> 
+ <h2>The Steps for Build An Application....👇</h2> 
  
  1️⃣ Took The Data From The Kaggle. 
  
