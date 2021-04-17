@@ -13,7 +13,7 @@
       </h3>
       <br/>
       
-  [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://carprice-predictionapp.herokuapp.com/)
+  ⨷[![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://carprice-predictionapp.herokuapp.com/)
    
       
 <h2>Application Video</h2>
