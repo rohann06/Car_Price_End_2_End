@@ -1,5 +1,7 @@
 <h1 align="center">Car Price Prediction 🚗</h1>
 
+
+
 <h5> -> This Project Is For Give The Step By Step Information About Build The End To End Machinelearning  Poject With Healp Of Streamlit . </h5> <br/>
 
 
@@ -24,7 +26,7 @@
     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"     height="40" /> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40"       height="40"> </a> 
-    <a href="https://streamlit.io/" target="_blank"> <img src="https://jobs.dataumbrella.org/logos/1599482738-streamlit2.png" alt="Streamlit" width="50"  height="50"  </a> 
+    <a href="https://streamlit.io/" target="_blank"> <img src="https://jobs.dataumbrella.org/logos/1599482738-streamlit2.png" alt="Streamlit" width="50"  height="45"  </a> 
   </p>
 
     
