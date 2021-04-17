@@ -12,10 +12,10 @@
        >  Gear Type  <br/>
       </h3>
       <br/>
-   <h6>Application Link...👇</h6> <br/>  
-  [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://carprice-predictionapp.herokuapp.com/)
+   <h6>Application Link...👇</h6> <br/>
    
-   <br/>   
+  [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://carprice-predictionapp.herokuapp.com/)
+      
 <h2>Application Video</h2>
 
 https://user-images.githubusercontent.com/75326769/115126552-81e0f000-9fed-11eb-9863-3ec1f3405423.mp4
