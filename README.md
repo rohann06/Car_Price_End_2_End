@@ -2,9 +2,7 @@
 
 <h5> -> This Project Is For Give The Step By Step Information About Build The End To End Machinelearning  Poject With Healp Of Streamlit . </h5> <br/>
 
-<video>
-    <source src=
-</video>
+
 
   <h5>-> This Project Is For Predict The Price Of A Second Hand Car Basd On A Given Components Like....</h5>
        <h3>
