@@ -12,7 +12,7 @@
        >  Gear Type  <br/>
       </h3>
       <br/>
-   <h6>Application Link...👇</h6> <br/>
+   <h6>Application Link...👇</h6> 
    
   [![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://carprice-predictionapp.herokuapp.com/)
       
